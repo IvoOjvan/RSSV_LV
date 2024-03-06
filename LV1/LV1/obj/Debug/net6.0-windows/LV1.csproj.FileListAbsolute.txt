@@ -1,0 +1,17 @@
+D:\RSSV\LV1\LV1\LV1\bin\Debug\net6.0-windows\LV1.exe
+D:\RSSV\LV1\LV1\LV1\bin\Debug\net6.0-windows\LV1.deps.json
+D:\RSSV\LV1\LV1\LV1\bin\Debug\net6.0-windows\LV1.runtimeconfig.json
+D:\RSSV\LV1\LV1\LV1\bin\Debug\net6.0-windows\LV1.dll
+D:\RSSV\LV1\LV1\LV1\bin\Debug\net6.0-windows\LV1.pdb
+D:\RSSV\LV1\LV1\LV1\obj\Debug\net6.0-windows\LV1.csproj.AssemblyReference.cache
+D:\RSSV\LV1\LV1\LV1\obj\Debug\net6.0-windows\LV1.Form1.resources
+D:\RSSV\LV1\LV1\LV1\obj\Debug\net6.0-windows\LV1.csproj.GenerateResource.cache
+D:\RSSV\LV1\LV1\LV1\obj\Debug\net6.0-windows\LV1.GeneratedMSBuildEditorConfig.editorconfig
+D:\RSSV\LV1\LV1\LV1\obj\Debug\net6.0-windows\LV1.AssemblyInfoInputs.cache
+D:\RSSV\LV1\LV1\LV1\obj\Debug\net6.0-windows\LV1.AssemblyInfo.cs
+D:\RSSV\LV1\LV1\LV1\obj\Debug\net6.0-windows\LV1.csproj.CoreCompileInputs.cache
+D:\RSSV\LV1\LV1\LV1\obj\Debug\net6.0-windows\LV1.dll
+D:\RSSV\LV1\LV1\LV1\obj\Debug\net6.0-windows\refint\LV1.dll
+D:\RSSV\LV1\LV1\LV1\obj\Debug\net6.0-windows\LV1.pdb
+D:\RSSV\LV1\LV1\LV1\obj\Debug\net6.0-windows\LV1.genruntimeconfig.cache
+D:\RSSV\LV1\LV1\LV1\obj\Debug\net6.0-windows\ref\LV1.dll
